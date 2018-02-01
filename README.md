@@ -1,6 +1,6 @@
 # UX - Reto
 
-Se nos propone que Catalina tiene una idea de negocio. El problema que ella ve es con respecto a lacompra de tickets, horarios, embarques, desembarques, etc. Esto dentro de las plataformas de ventas por internet tienen cosas por mejorar en Chile, Perú y México
+Se nos propone ayudar a Catalina en su idea de negocio en el rubro de transportes. 
 
 ## Objetivo:
     Crear una nueva experiencia en empresas de buses.
@@ -26,4 +26,4 @@ En el 2do día con las respuestas de los usuarios obtenidos se realiza lo siguie
 
 * Selección de problemas: Compra de pasajes por internet vs compra de pasajes en agencias.
 
-* Definición del problema: Al realizar el **User Research** nos dimos cuenta de que habia una diferencia al realizar la compra en las terminas ya sean extranjeros y peruanos. Los extranjeros tienen mas facilidad de comprar por internet los boletos, ni bien los peruanos van directamente a la terminal a comprarlo, ¿Porque sucede esto?.
+* Definición del problema: Al realizar el **User Research** nos dimos cuenta de que habia una diferencia al realizar la compra en las terminas ya sean extranjeros y peruanos. Los extranjeros tienen mas facilidad de comprar por internet los boletos, ni bien los peruanos van directamente a la terminal a comprarlo, ¿Por qué sucede esto?.
