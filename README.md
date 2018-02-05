@@ -1,29 +1,58 @@
-# UX - Reto
+# **UX - Reto**
 
-Se nos propone ayudar a Catalina en su idea de negocio en el rubro de transportes. 
+## **Objetivo:**
 
-## Objetivo:
-    Crear una nueva experiencia en empresas de buses.
+Diseñar la plataforma de venta de boletos de buses más intuitiva y amigable para el usuario.
 
-En el reto seguiremos el siguientes fases del proceso.
+## **Fases del Proceso:**
+
+Para llevar a cabo el reto seguiremos el proceso de UXD:
+    
 ![Fases del proceso](assets/documents/FProceso.PNG)
-# Descubrimiento de la investigación
-## User Research: 
 
-El Squad se dividio en dos para realizar entrevistas en las terminales ubicados en 28 de Julio y Plaza Lima Norte.
+## **1. Descubrimiento e investigación**
 
-Link de fotos de la investigación: 
-[Click](https://photos.google.com/share/AF1QipNhjbtJdhZl_5NInrbAaW0SVUJ8yRCoweozimCIk9GZrEK-VH0fg5nIPoU-KuciCA?key=UEtzQ2tfcVFSWG9UVmkwYlIxOGVEQmxGb2liMC13)
-* Research Cuantitativo: Encuesta por internet.
-* Research Cualitativo: Entrevistas a usuarios en campo.
+### **User Research**:
 
-# Síntesis y Definición
-## Procesando datos:
-En el 2do día con las respuestas de los usuarios obtenidos se realiza lo siguiente:
+Metodologías utilizadas:
 
-* Mapas de Afinidad
-![Mapa de afinidad](assets//documents/Afinidad.jpg)
+* _Research Cuantitativo:_ Encuestas por internet.
 
-* Selección de problemas: Compra de pasajes por internet vs compra de pasajes en agencias.
+* _Research Cualitativo:_ Entrevistas a usuarios en campo.
 
-* Definición del problema: Al realizar el **User Research** nos dimos cuenta de que habia una diferencia al realizar la compra en las terminas ya sean extranjeros y peruanos. Los extranjeros tienen mas facilidad de comprar por internet los boletos, ni bien los peruanos van directamente a la terminal a comprarlo, ¿Por qué sucede esto?.
+Las encuestas se realizaron el martes 30 del presente mes en dos puntos estratégicos: Terminales de buses ubicadas en 28 de Julio y Plaza Lima Norte.
+
+_Fotos de la investigación:_  [Click](https://photos.google.com/share/AF1QipNhjbtJdhZl_5NInrbAaW0SVUJ8yRCoweozimCIk9GZrEK-VH0fg5nIPoU-KuciCA?key=UEtzQ2tfcVFSWG9UVmkwYlIxOGVEQmxGb2liMC13)
+
+## **2. Síntesis y Definición**
+
+Con todos los insights recabados se procedió a lo siguiente:
+
+- ###  **Mapas de Afinidad (Affinity maps):**
+
+    Mediante este, agrupamos los comentarios de los usuarios en siete aspectos claves: 
+    Uso del internet, compra en agencias, servicios, miedos, experiencia de viaje, costos y recomendaciones.
+
+    ![Mapa de afinidad](assets//documents/Afinidad.jpg)
+
+- ### **Selección del problema:** 
+
+    Debido a que notamos un gran contraste entre los usuarios que compran sus pasajes vía internet vs. los que compran directamente en las agencias, se optó por elegir dicha problemática (¿por qué los peruanos no compran sus pasajes por internet?).
+
+- ### **Definición del problema:**
+    Las respuestas que más usuarios nos dieron fue la siguiente: "No compro por internet porque me da miedo ser estafado". Y es precisamente ésta una de las razones por las que el peruano promedio no compra por internet. El usuario peruano siente desconfianza, inseguridad y en muchos casos desconoce cómo usar a su favor este medio.
+
+- ### **User Persona:** 
+    
+
+- ### **Problem Statements:** 
+
+- ### **HMW (How Might We o Como podríamos):**
+
+- ### **WHAT IF?:**
+
+- ### **Feature List:** 
+
+- ### **Storyboard:**
+
+- ### **Content Prototyping:**  
