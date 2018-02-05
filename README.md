@@ -45,7 +45,7 @@ Recabados y procesados los insights, se procedió a lo siguiente:
 - ### **User Persona:**
     Se elaboró el siguiente perfil de nuestro público objetivo en base a la información de nuestros usuarios. 
      
-
+    _Enlace_: [Click](https://claseslaboratoria.slack.com/files/U79A3CV7Y/F950Y76B0/user_persona.pdf)
 
 - ### **Problem Statements:**
     Los siguientes enunciados se apoyan en las necesidades de nuestro User Persona.
