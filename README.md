@@ -79,6 +79,9 @@ Recabados y procesados los insights, se procedió a lo siguiente:
 
 - ### **Storyboard:**
 
+    ![Storyboard](assets/documents/SB1.jpg)
+    ![Storyboard](assets/documents/SB2.jpg)
+
 - ### **Content Prototyping:**
     En el siguiente enlace se muestra el flujo que tendrá nuestra plataforma:
 
