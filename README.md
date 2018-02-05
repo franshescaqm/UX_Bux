@@ -82,4 +82,4 @@ Recabados y procesados los insights, se procedió a lo siguiente:
 - ### **Content Prototyping:**
     En el siguiente enlace se muestra el flujo que tendrá nuestra plataforma:
 
-    _Enlace:_  [Click](https://docs.google.com/document/d/1fhyF_XFbXCHkmn9zK0FfBFnAqS5JYaAb_LDYHZaELtc/edit)
+    _Content Prototyping UXperts:_  [Click](https://docs.google.com/document/d/1fhyF_XFbXCHkmn9zK0FfBFnAqS5JYaAb_LDYHZaELtc/edit)
