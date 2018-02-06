@@ -40,7 +40,7 @@ Recabados y procesados los insights, se procedió a lo siguiente:
     Debido a se notó un gran contraste entre los usuarios que compran sus pasajes vía internet vs. los que compran directamente en las agencias, se optó por elegir dicha problemática (¿por qué los peruanos no compran sus pasajes por internet?).
 
 - ### **Definición del problema:**
-    Las respuestas que más usuarios nos dieron fue la siguiente: "No compro por internet porque me da miedo ser estafado". Y es precisamente ésta una de las razones por las que el peruano promedio no compra por internet. El usuario peruano siente desconfianza, inseguridad y en muchos casos por desconocimiento.
+    Las respuestas que más usuarios nos dieron fue la siguiente: "No compro por internet porque me da miedo ser estafado". Y es precisamente ésta una de las razones por las que el peruano promedio no compra por internet. El usuario peruano siente desconfianza, inseguridad y en muchos casos no están familiarizados con las plataformas online.
 
 - ### **User Persona:**
     Se elaboró el siguiente perfil de nuestro público objetivo en base a la información de nuestros usuarios. 
