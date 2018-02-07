@@ -92,8 +92,16 @@ Recabados y procesados los insights, se procedió a lo siguiente:
 - ### **Content Prototyping:**
     En el siguiente enlace se muestra el flujo que tendrá nuestra plataforma:
 
-    _Content Prototyping UXperts:_  [Click](https://docs.google.com/document/d/1fhyF_XFbXCHkmn9zK0FfBFnAqS5JYaAb_LDYHZaELtc/edit)
-
+    _Content Prototyping UXperts Versión 1:_  [Click](https://docs.google.com/document/d/1fhyF_XFbXCHkmn9zK0FfBFnAqS5JYaAb_LDYHZaELtc/edit)
+    _Content Prototyping UXperts Version 2:_ 
+    ![ImgOne](assets/documents/1.jpg)
+    ![ImgTwo](assets/documents/2.jpg)
+    ![ImgThree](assets/documents/3.jpg)
+    ![ImgFour](assets/documents/4.jpg)
+    ![ImgFive](assets/documents/5.jpg)
+    ![ImgSix](assets/documents/6.jpg)
+    ![ImgSeven](assets/documents/7.jpg)
+    ![ImgEight](assets/documents/8.jpg)
 ### **Colaboradoras:**
 * [Franchesca Quesada](https://github.com/franshescaqm)
 * [Yoanna Hernandez](https://github.com/YoannaHS)
