@@ -45,7 +45,9 @@ Recabados y procesados los insights, se procedió a lo siguiente:
 - ### **User Persona:**
     Se elaboró el siguiente perfil de nuestro público objetivo en base a la información de nuestros usuarios. 
      
-    _Enlace_: [Click](https://claseslaboratoria.slack.com/files/U79A3CV7Y/F950Y76B0/user_persona.pdf)
+    * _Enlace Version1_: [Click](https://claseslaboratoria.slack.com/files/U79A3CV7Y/F950Y76B0/user_persona.pdf)
+    * _Ultima version_: 
+    ![UserPersona](assets/documents/UserPerson.PNG)
 
 - ### **Problem Statements:**
     Los siguientes enunciados se apoyan en las necesidades de nuestro User Persona.
@@ -93,7 +95,7 @@ Recabados y procesados los insights, se procedió a lo siguiente:
     _Content Prototyping UXperts:_  [Click](https://docs.google.com/document/d/1fhyF_XFbXCHkmn9zK0FfBFnAqS5JYaAb_LDYHZaELtc/edit)
 
 ### **Colaboradoras:**
-* [Franchesca](https://github.com/franshescaqm)
+* [Franchesca Quesada](https://github.com/franshescaqm)
 * [Yoanna Hernandez](https://github.com/YoannaHS)
 * [Yasmin Mattos](https://github.com/YasminMattos)
 * [Priscilla Rojas](https://github.com/Priscilarojas)
