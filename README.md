@@ -72,6 +72,17 @@ Recabados y procesados los insights, se procedió a lo siguiente:
 
 - ### **Feature List:**
 
+    - Pedido de origen y destino.
+    - Detalle de la fecha de ida y regreso.
+    - Elección de empresas de transporte en la que el usuario desea viajar.
+    - Mostrar los servicios que ofrecen dentro del transcurso de viaje(iconos).
+    - Filtro de categoría de servicios (Económico, Vip y Super Vip).
+    - Selección de asientos en el bus.
+    - Reserva y compra de pasaje.
+    - Valorización por usuarios que utilizaron el servicio.
+    - Datos de pago del usuario.
+    - En caso sea reserva, enviar un código al usuario para pagar en la terminal.
+
 - ### **Storyboard:**
     
     ![Storyboard](assets/documents/SBVer2.jpg)
