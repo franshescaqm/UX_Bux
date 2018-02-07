@@ -33,7 +33,7 @@ Recabados y procesados los insights, se procedió a lo siguiente:
     Mediante este, se agruparon los comentarios de los usuarios en siete aspectos claves: 
     Uso del internet, compra en agencias, servicios, temores de los usuarios, experiencia de viaje, costo de servicios y recomendaciones.
 
-    ![Mapa de afinidad](assets//documents/Afinidad.jpg)
+    ![Mapa de afinidad](assets/documents/Afinidad.jpg)
 
 - ### **Selección del problema:** 
 
@@ -70,12 +70,20 @@ Recabados y procesados los insights, se procedió a lo siguiente:
 
     - WHAT IF el usuario no quiere pagar por internet. 
 
-- ### **Feature List:** 
+- ### **Feature List:**
 
 - ### **Storyboard:**
-
+    
+    ![Storyboard](assets/documents/SBVer2.jpg)
 
 - ### **Content Prototyping:**
     En el siguiente enlace se muestra el flujo que tendrá nuestra plataforma:
 
     _Content Prototyping UXperts:_  [Click](https://docs.google.com/document/d/1fhyF_XFbXCHkmn9zK0FfBFnAqS5JYaAb_LDYHZaELtc/edit)
+
+### **Colaboradoras:**
+* [Franchesca](https://github.com/franshescaqm)
+* [Yoanna Hernandez](https://github.com/YoannaHS)
+* [Yasmin Mattos](https://github.com/YasminMattos)
+* [Priscilla Rojas](https://github.com/Priscilarojas)
+* [Daniela Centeno](https://github.com/DDCenteno)
