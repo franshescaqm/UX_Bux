@@ -17,6 +17,10 @@ Para llevar a cabo el reto se sseguirá el proceso de UXD:
 Metodologías utilizadas:
 
 * _Research Cuantitativo:_ Encuestas por internet.
+   + Para la primera encuesta Online [Click Aquí](https://goo.gl/forms/oxJzhOCSlwfiLDJk2)
+     - En caso de no poder el abrir el enlace, te mandamos el archivo excel [Aquí](https://docs.google.com/spreadsheets/d/1PWQ_MMXOFhmAJ_ruXbc3jF04IDjdyXV1IfkhqYI6b60/edit#gid=422860799)
+     
+   + Para la segunda encuesta online [Click Aquí](https://docs.google.com/spreadsheets/d/1kZrkbpPrkQnTUKv6zj5QYCR8hlvTtygRUcAgBJMTJnM/edit#gid=411645737)
 
 * _Research Cualitativo:_ Entrevistas a usuarios en campo.
 
@@ -102,8 +106,16 @@ Recabados y procesados los insights, se procedió a lo siguiente:
     ![ImgSix](assets/documents/6.jpg)
     ![ImgSeven](assets/documents/7.jpg)
     ![ImgEight](assets/documents/8.jpg)
+    
+- ### **Enlaces Adicionales:**
+   * [Trello](https://trello.com/b/lZvUFreL/la-traves%C3%ADa-por-un-boleto): Ingreso de los procesos realizados de cada integrante
+      
+   * [Content Prototype](https://docs.google.com/document/d/1fhyF_XFbXCHkmn9zK0FfBFnAqS5JYaAb_LDYHZaELtc/edit): El flujo de la aplicación de manera escrita con 2 versiones, siendo la segunda versión modificada por los feedbacks recibidos
+      
+   * [Presentación Fina](https://docs.google.com/presentation/d/16ltvKofrhhiAbmpmrVNZH4uVJ3n71ZjQd2yDUKQhAtQ/edit#slide=id.g30ddff6f68_0_57): PPT resumido sobre investigación y prototipado final
+   
 ### **Colaboradoras:**
-* [Franchesca Quesada](https://github.com/franshescaqm)
+* [Franshesca Quezada](https://github.com/franshescaqm)
 * [Yoanna Hernandez](https://github.com/YoannaHS)
 * [Yasmin Mattos](https://github.com/YasminMattos)
 * [Priscilla Rojas](https://github.com/Priscilarojas)
