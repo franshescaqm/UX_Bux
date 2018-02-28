@@ -7,7 +7,7 @@ La Terminal es una plataforma de venta de boletos de viaje vía terrestre. Dise�
 
 ## Desarrollado para
 
-[Laboratoria](http://www.laboratoria.la/)
+la empresa [Laboratoria](http://www.laboratoria.la/)
 
 ## Objetivo:
 
@@ -99,12 +99,12 @@ A partir los insights, se procedió a lo siguiente:
 ### **STORYTELLING:**
     Nos permite entender las necesidades del usuario y empatizar con él.
 
-    Enlace: [Click](https://onedrive.live.com/view.aspx?resid=AE7D39D044B5FE3A!123&ithint=file%2cdocx&app=Word&authkey=!ANVVkkEzNcjSrp4)
+    Enlace: [Click Aquí!](https://onedrive.live.com/view.aspx?resid=AE7D39D044B5FE3A!123&ithint=file%2cdocx&app=Word&authkey=!ANVVkkEzNcjSrp4)
 
 ### **USER FLOW:**
     Nos da un mayor entendimiendo de la experiencia que el usuario tiene con el flujo de nuestra plataforma.
 
-     ![](assets/documents/user-flow.png)
+     ![user-flow](assets/documents/user_flow.jpeg)
 
 ### **MVP**
 ___
@@ -131,7 +131,7 @@ ___
     En el siguiente enlace se muestra el flujo que tendrá nuestra plataforma.
     Siendo la primera versión, la inicial; y la segunda, la versión mejorada:
 
-    * _Content Prototyping UXperts Versión 1 y 2:_  [Click](https://docs.google.com/document/d/1fhyF_XFbXCHkmn9zK0FfBFnAqS5JYaAb_LDYHZaELtc/edit)
+    * _Content Prototyping UXperts Versión 1 y 2:_  [Click aquí](https://docs.google.com/document/d/1fhyF_XFbXCHkmn9zK0FfBFnAqS5JYaAb_LDYHZaELtc/edit)
 
 ## **Prototyping y Testing**
 
@@ -139,11 +139,9 @@ Se diseñó y testeó un primer prototipo de baja fidelidad.
 
 _User Testing:_
 
-![user2][2] 
+![user2](assets/documents/prototype.jpg)
 
-[2]: assets/documents/user2.jpg
-
-_Más fotos:_ [Link](https://photos.app.goo.gl/Xaips1XKF3Y58Wty2)
+_Para más fotos:_ [Click aqui](https://photos.app.goo.gl/Xaips1XKF3Y58Wty2)
 
 _Feedback_ recibido:
 
